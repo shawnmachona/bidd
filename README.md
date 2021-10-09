@@ -4,7 +4,8 @@ Hey there ,my name is Shawn Wright Machona. I am a computer scientist that likes
 I am currently working on an Online Auction System project.
 I am learn PHP ,java and i am very intrested in Graphics design.
 
-
+- Please describe the challeges you are hvaing building or running your code.
+- Be as specific as possible, so that others can help ... MCT
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
